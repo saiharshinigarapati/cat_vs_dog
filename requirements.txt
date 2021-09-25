@@ -1,3 +1,4 @@
+python==3.7.4
 absl-py==0.7.1
 astor==0.7.1
 certifi==2019.3.9
@@ -32,7 +33,7 @@ scipy==1.2.1
 six==1.12.0
 tensorboard==1.12.2
 tensorflow-estimator==1.13.0
-tensorflow==1.12.0
+tensorflow==1.12.2
 termcolor==1.1.0
 urllib3==1.24.2
 visitor==0.1.3
